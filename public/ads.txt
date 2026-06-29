@@ -1,0 +1,6 @@
+# Google AdSense review requires a publisher-authorized seller line:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
+#
+# Set NEXT_PUBLIC_ADSENSE_CLIENT_ID=ca-pub-XXXXXXXXXXXXXXXX for the site-wide script.
+# Set ADSENSE_ADS_TXT_LINE or ADSENSE_PUBLISHER_ID during bootstrap to generate the real line.
+# Add Adsterra or other publisher-authorized seller lines after account/domain onboarding.

@@ -3,7 +3,7 @@ import type { GameConfig } from "@/types/site";
 export const gameConfig: GameConfig = {
   name: "Lucky Block Rush",
   slug: "lucky-block-rush",
-  domain: "https://lucky-block-rush.com",
+  domain: "https://luckyblockrush.org",
   theme: {
     primaryColor: "#FACC15",
     accentColor: "#38BDF8",
